@@ -1,0 +1,5 @@
+pandas
+numpy
+ccxt
+MetaTrader5
+requests
